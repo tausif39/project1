@@ -2,4 +2,8 @@ Welcome to my code
 java
 postgressql
 react js
+
+php
+sql
+python
 thank you
